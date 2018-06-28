@@ -1,10 +1,12 @@
-<!-- Please follow the provided format. Fill in title, subtitle and category-->
-<!-- Valid categories are: confirmed OR speculation --> 
+<!-- Please follow the provided format. Fill in title, subtitle and category-->  
+<!-- Valid categories are: confirmed OR speculation -->  
+
 ---
-title: 
-subTitle: 
-category: 
+title: Chainlink & Microsoft  
+subTitle: A new rumor been spread on biz.  
+category: "speculation"  
+cover: photo.jpg <!-- Don't touch this line -->  
 ---
 
 # Title
-Content
+Standard markdown syntax for the rest of the post.
