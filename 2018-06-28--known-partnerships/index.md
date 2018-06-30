@@ -14,12 +14,17 @@ Powered by openzeppelin, zeppelin_os makes the smart contract development proces
 
 [Confirmed by both zeppelin_os and ChainLink](https://blog.zeppelinos.org/chainlink-partnership/)
 
+
 ## Town Crier
 > We're partnered with Cornell's IC3, to help launch the [first Intel SGX secured link between smart contracts and external data](https://create.smartcontract.com/#/contracts/cc3ea3c76b5a60f171e0eaf223146f34?tab=info). This more secure way of running an oracle is the future and we're glad to be moving it forward. [ChainLink website (under Cornell)](https://www.smartcontract.com/)
 
 Town Crier is a patent-pending system developed by a team from Cornell's Initiative for CryptoCurrencies and Contracts (IC3). A notable team member includes Ari Jules, he was previously the Chief Scientist of RSA (The Security Division of EMC) and assisted in writing/peer-reviewing the ChainLink whitepaper.
 
 The Town Crier system leverages trusted hardware (Intel SGX) to provide a strong guarantee that data comes from an existing, trustworthy source. It also provides confidentiality, enabling smart contracts to support confidential queries and even manage user credentials. - Town Crier website
+
+## Factom
+Factom stores the world's data on a decentralized system. Using blockchain technology for smart contracts, digital assets and database integrity.
+> [SmartContract + Factom Announce Collaboration](https://www.factom.com/blog/smartcontract-factom-announce-collaboration)
 
 ## Request Network
 Attempting to be an open-sourced, decentralised, and standardised PayPal. Plans to be currency-agnostic. Will also offer services such as accounting automation, IOT, and smart audit.

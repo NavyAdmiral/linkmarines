@@ -1,11 +1,11 @@
 ---
-title: The Salesforce connection
+title: The Salesforce Connection
 subTitle: Or the search for a secret admirer of Marc Benioff
 category: "speculation"
 cover: photo.jpg <!-- Don't touch this line -->
 ---
 
-# One of the most promising leads on ChainLink partnerships is Salesforce. As the global leader in Software-as-a-Service (SaaS) they have connections with a myriad of important companies all over the world.
+## One of the most promising leads on ChainLink partnerships is Salesforce. As the global leader in Software-as-a-Service (SaaS) they have connections with a myriad of important companies all over the world.
 
 On the 29th of March,the CEO of Salesforce  Marc Benioff gave an [interview to techcrunch](https://techcrunch.com/2018/04/08/salesforce-is-working-on-a-blockchain-product/) about his plans for blockchain implementations in his company. During the interview, [he tells an anecdote](https://youtu.be/2nC0TX_GCIM?t=1965) about the World Economic Forum (Davos 2018) and cryptocurrency.  
 
@@ -23,10 +23,10 @@ Now, Sergey isn't your regular cryptocurrency CEO who tweets every second. The f
 
 A bit later, on April 11th, [suddenly the Salesforce logo turns up on the website.](https://www.reddit.com/r/LINKTrader/comments/8bg7up/4_new_logos_in_revamped_website_appeared_today/)
 This is the second clue. As has been discussed often enough, companies don't simply use each others logo on their website. The usage of the official Salesforce logo seems to imply further communications were held and ChainLink was brought on board.
---------------------------------------
+
 A third clue is a simple reddit post: [This person claims Sergey was there.](https://www.reddit.com/r/ethtrader/comments/8aszk6/salesforce_is_working_on_a_blockchain_product/dx1mcoo/?context=3)
 We have not yet managed to get more or better information from this source.
---------------------------------------
+
 The fourth and last clue comes again from what Marc Benioff told in the interview, namely that they hoped to show their blockchain-related project during Dreamforce. This is taking place 25-28th of September this year, coinciding with the much predicted main net release in September/Q3. Also, lots of the companies linked to ChainLink will be attending (source: https://www.salesforce.com/dreamforce/expo/).
 
 -------------------------------------
