@@ -22,9 +22,14 @@ In fall of 2018, Andreas is releasing a new book, [Mastering Ethereum](https://g
 # [Nick Szabo](https://en.wikipedia.org/wiki/Nick_Szabo)
 Often speculated as Satoshi Nakamoto, Nick Szabo was talking about smart-contracts in 1996. [In this retweet](https://i.imgur.com/XjWXsUJ.png) there's a subliminal message of his support for Chainlink. The support is further reinforced by the facts that *Mastering Ethereum* is also co-authored by Szabo and Szabo is good friends with Chainlink's technical advisor *Ari Juels*.
 
+# [Janet Stimac](https://twitter.com/JanetStimac/)
+As you've probably already read [The Salesforce Connection](/salesforce), this one will make a lot more sense. Janet Stimac, the Implementation Architect at Salesforce, [is following Chainlink in Twitter.](https://twitter.com/JanetStimac/following)
+
 # [Ari Juels](http://www.arijuels.com/)
 Ari Juels is a Professor at Cornell Tech (Jacobs Institute) in New York City, and Computer Science faculty member at Cornell University. He is a Co-Director of the Initiative for CryptoCurrencies and Contracts (IC3). Ari is Chainlink's technical advisor who co-authored Chainlink's whitepaper. It's probably because of Ari's support that Chainlink is recognized by Cornell's IC3:
 > We're partnered with Cornell's IC3, to help launch the first Intel SGX secured link between smart contracts and external data. This more secure way of running an oracle is the future and we're glad to be moving it forward. [source](https://www.smartcontract.com/)
+
+
 
 # [The World Economic Forum](https://www.weforum.org/)
 The World Economic Forum is an independent international organization committed to improving the state of the world by engaging business, political, academic and other leaders of society to shape global, regional and industry agendas. Chainlink is *industry recognized*:
