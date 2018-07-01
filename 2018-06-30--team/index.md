@@ -2,7 +2,7 @@
 title: Chainlink Team
 subTitle: A comprehensive description of team members.
 category: "confirmed"
-cover: photo.jpg <!-- Don't touch this line -->
+cover: cover.jpg <!-- Don't touch this line -->
 ---
 
 # Employed and Confirmed Team Members:
@@ -45,9 +45,8 @@ forecasting
 
 
 Snapshot resume:
-Education: B.S. of Economics University of Michigan
-
-First what strikes is Mr. Kochis 10 - year Chinese exposure (starting from Alibaba and continued with February 2017– February 2018 work experience). It could probably mean that China/Hong Kong will be his first overseas markets to target/promote Smart Contract.com
+Education: B.S. of Economics University of Michigan  
+Mr. Kochis has 10-year Chinese exposure (started from Alibaba and continued with February 2017– February 2018 work experience). It could probably mean that China/Hong Kong will be his first overseas markets to target/promote Smart Contract.com
 
 ------------------------------
 ### [Mark Oblad](https://www.linkedin.com/in/markoblad)
@@ -139,7 +138,7 @@ Education: University of Maryland University College Bachelor’s degree, Comput
 
 ------------------------------
 
-### Jonny Huxtable
+### [Jonny Huxtable](https://github.com/jleeh)
 
 > Automation and Smart Contracts are my professional passions. I'm highly driven into implementing and designing the best approaches for software or automation of to be implemented to gain quick feedback, confidence and quality. My mantra for automation: speed, reliability and re-use. My main technical skill sets are:
 * Main Languages: Java, Golang, Solidity (Ethereum), Python, Bash, Node
@@ -175,24 +174,23 @@ Education:
 Sheffield Hallam University  
 Computer Networks, Information Technology, 2010 – 2014
 ------------------
-### Aleksey Klintsevich (Speculated)
-1.From January 2016 **_–_** until now: Software Engineer, Microsoft
-2.From May 2015 **_–_** July 2015: Software Engineering Intern, Microsoft
+### [Aleksey Klintsevich](https://github.com/aklintsevich) (Speculated)
+1.From January 2016 **_–_** until now: Software Engineer, Microsoft  
+2.From May 2015 **_–_** July 2015: Software Engineering Intern, Microsoft  
 3.May 2014 **_–_** July 2014: Software Engineering Intern, Lockheed Martin
 
-Snapshot resume:
-
+Snapshot resume:  
 Education: University of Florida Bachelor of Science, Computer Science, 2012- 2015
 
 -------------------
-### Jordan Bonilla, Palo Alto, California
+### [Jordan Bonilla](https://www.linkedin.com/in/jordan-bonilla-b1b495111)
 
 1.From July 2016 **_–_** until now: Software Engineer, Tesla
 2.From October 2014 **_–_** until now: Dean's Tutor, _California Institute of Technology_
 > I tutor other Caltech students in CS1 (Python), CS2 (C++) and CS 179 (CUDA)
 3.February 2016 **_–_** June 2016: Teaching Assistant, Caltech
 > CS179 GPU Computing (CUDA) Refactored sets to work in Windows. Graded Sets, held lectures and office hours. Sys admin for course GPU Clusters.
-4. October 2015 **_–_** June 2016: Researcher, NASA Jet Propulsion Laboratory
+1. October 2015 **_–_** June 2016: Researcher, NASA Jet Propulsion Laboratory
 * Working with the Robotics Modeling and Simulation Group.
 * Focus on creating physical models using GPU programming.
 5. July 2015 **_–_** September 2015: Intern, Intel Corporation
@@ -202,6 +200,5 @@ Education: University of Florida Bachelor of Science, Computer Science, 2012- 20
 * Created a customizable watchdog timer daemon.
 * Created a custom Phidgets temperature sensor application.
 
-Snapshot resume:
-
+Snapshot resume:  
 Education: California Institute of Technology, B.S: Computer Science, 2013- 2017

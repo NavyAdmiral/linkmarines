@@ -50,13 +50,21 @@ ChainLink successfully demonstrated their (PoC) at SWIFT's Sibos conference in O
 All Microsoft speculations are already [covered here](https://chainlink.news/microsoft/). Clues:
 
 > 1 Sergey owns Cryptlets domain
+> 
 > 2 Sergey at NYC meetup
+> 
 > 3 SGX and Enclaves
+> 
 > 4 Non-SmartContract Blockchain Platforms:
+> 
 > 5 Cryptlet JSON Schema
+> 
 > 6 Marley Gray
+> 
 > 7 Microsoft Azure Dev
 
+## Salesforce
+A detailed report about Salesforce speculation [can be found here.](/salesforce)
 
 ## Docusign
 
@@ -66,11 +74,11 @@ Sergey was on a panel at SXSW alongside Tom Gosner. They didn't makeany announce
 
 [In this post] (https://www.linkedin.com/pulse/smart-contracts-deals-without-lawyers-tom-gonser/) it is also believed Tom Gonser references chainlink.
 
-> Finally, we’ll hear from Sergey Nasarov, CEO of Smartcontract.com about the importance of oracles to get data in and out of smart contracts securely.
+> Finally, we’ll hear from Sergey Nazarov, CEO of Smartcontract.com about the importance of oracles to get data in and out of smart contracts securely.
 
 > Where will the data come from to connect smart contracts to the data they need to make decisions? How will we know we can rely on these data sources?
 
-> Do smart contracts require a decentralized "trust-less" block chain to operate? Or can these same contracts be built on ‘trusted’ networks?
+> Do smart contracts require a decentralized "trustless" block chain to operate? Or can these same contracts be built on ‘trusted’ networks?
 
 ## CEEK
 
