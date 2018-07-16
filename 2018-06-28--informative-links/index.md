@@ -5,19 +5,56 @@ category: "confirmed"
 cover: cover.jpg
 ---
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [adipiscing](http://google.com) eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:
+In case you want to read more about Chainlink, here are some resources that you might find useful:
 
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
-
-Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.
-
-> Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
-
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.
-
-### Cras semper consectetur elementum
-
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
-
-
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+> https://link.smartcontract.com/whitepaper  
+> https://medium.com/@cl_thodges/chainlink-white-paper-section-2-architectural-overview-c109cbc8c3a9  
+> https://clfaq.smartcontract.com/  
+> https://chainlink-docs.smartcontract.com/  
+> https://guides.oraclefinder.com/node-faq  
+> https://guides.oraclefinder.com/run-chainlink-node  
+> https://guides.oraclefinder.com/set-up-dev-env  
+> https://www.youtube.com/channel/UClIWFp4FV1QuYmnc8FcFDWw  
+> https://github.com/smartcontractkit/chainlink  
+> https://chainlinknodes.com/blog-and-updates/  
+> https://www.redbubble.com/people/ChainLinkNodes/shop  
+> https://chainlinknodes.com/chainlink-in-the-news/  
+> https://chainlinknodes.com/  
+> https://smartcontract.com  
+> https://medium.com/@sergeynazarov/chainlink-an-overview-and-our-focus-14f03335b803?source=linkShare-5d50a5aad58b-1513733478  
+> https://analysisinchains.podbean.com/e/20-interview-with-sergey-nazarov-ceo-of-smartcontractcom/  
+> http://www.fintech.finance/fintech-tv/sibos-2017-sergey-nazarov-smartcontract/  
+> https://blokt.com/icos/chainlink-promising-blockchain-oracle  
+> https://btcmanager.com/no-need-war-bitcoin-ethereum-future-collaborative-web-cryptocurrencies/
+> https://www.factom.com/blog/smartcontract-factom-announce-collaboration
+> https://blockonomi.com/chainlink-guide/
+> http://tutdenegki.com/chainlink
+> https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Ftutdenegki.com%2Fchainlink&edit-text=
+> https://www.tune.com/blog/blockchain-adtech-whats-interesting-whats-hard-industry-really-needs/
+> https://www.bitcoinsuperconference.com/
+> https://ethereumfoundation.> org/devcon3/sessions/secure-decentralized-oracles-applying-intel-sgx-and-towncrier-to-external-data-payments-and-off-chain-computation/
+> https://www.coinspeaker.com/2017/10/25/top-4-best-ico-platforms-managing-smart-contracts/
+> https://www.coindesk.com/swift-startup-winner-demos-smart-contract-trade-5-financial-firms/
+> https://themerkle.com/what-is-chainlink/
+> http://hackingdistributed.com/2017/06/15/town-crier/
+> https://venturebeat.com/2017/09/20/chainlink-raises-32-million-to-connect-blockchains-with-external-data/
+> https://cointelegraph.com/explained/blockchain-oracles-explained
+> http://www.the-blockchain.> com/2017/09/08/previous-chief-scientist-rsa-releases-smart-contract-connectivity-whitepaper-facebook-director-engineering-llvm-creator-joins-> chainlink-advisory-board/
+> https://www.americanbanker.com/news/the-race-to-connect-smart-contracts-to-the-real-world
+> https://www.financemagnates.com/cryptocurrency/news/facebook-director-engineering-joins-chainlink-advisory-board/
+> http://www.banklesstimes.com/2017/09/09/chainlink-connects-smart-contracts-to-data-apis-and-bank-payments/
+> https://hudsonjameson.com/2017-08-06-advising-status-smartcontract/
+> https://image.slidesharecdn.> com/worldeconomicforumtippingpoint2015blockchain41-170330211144/95/world-economic-forum-tipping-points-report-1-638.jpg?cb=1490908469
+> https://www.youtube.com/watch?v=AfJiRsYpgyc
+> https://www.business.com/articles/oracles-future-of-smart-contracts/
+> https://www.coinspeaker.com/2017/08/23/smartcontract-com-used-swift-announces-technical-leaders-advisors-launches-chainlink-connect-smart-contracts-off-chain-data-pa> yments/
+> https://www.coindesk.com/new-blockchain-startup-brings-contracts-digital-age/
+> http://www.the-blockchain.> com/2016/07/30/smartcontract-com-rolls-smart-oracles-platform-connecting-ethereum-bitcoin-blockchains-worlds-traditional-data-financial-infra> structure/
+> https://www.coinspeaker.com/2017/08/23/total-cryptocurrency-market-capitalization-hits-150-billion-first-time/
+> https://www.coindesk.com/swift-relevant-in-a-blockchain-world/
+> https://bravenewcoin.com/news/bnc-launches-finance-data-oracles-to-expand-the-usefulness-of-smart-contracts
+> https://www.itworldcanada.com/article/efforts-increase-to-secure-smart-contracts/386224
+> https://cointelegraph.com/news/anticipated-bitcoin-projects
+> https://medium.com/@rorypiant/the-chainlink-network-e4b38bd991aa
+> https://wordpress.org/plugins/good-url-preview-box/
+> https://twitter.com/ChainLinkNodes
