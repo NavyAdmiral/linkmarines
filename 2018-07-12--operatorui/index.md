@@ -18,7 +18,7 @@ Chainlink operator-ui will make node management simple and accessible for everyo
 <img src="https://i.warosu.org/data/biz/img/0096/91/1527780258573.png" style="width:100%"/>
 
 ## Configuration Page
-<img src="https://user-images.githubusercontent.com/635121/42064627-fa5bcc5a-7b04-11e8-9566-93780ac0a053.png" style="width:100%"/>
+<img src="https://i.imgur.com/PD4s37X.png" style="width:100%"/>
 
 ## JobSpec Details
 <img src="https://user-images.githubusercontent.com/680789/40868691-3acfda0c-65c4-11e8-8f0f-caffad888775.png" style="width:100%"/>
