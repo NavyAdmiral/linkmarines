@@ -33,7 +33,7 @@ External adapters are what make Chainlink easily extensible, providing simple in
 > Order a pizza  
 
 ## List of currently available Chainlink external adapters.
-There aren't too many implemented adapters that you can get your hands on right now, except the ones created the Linkpool Team. 
+There aren't too many implemented adapters that you can get your hands on right now, except the ones created by the Linkpool Team. 
 ### [Asset Price Adapter](https://github.com/linkpoolio/asset-price-cl-ea)
 External Adapter for Chainlink which aggregates prices of crypto assets from multiple exchanges based on a weighted average of their volume.
 ### [XML -> JSON Adapter](https://github.com/linkpoolio/xml-cl-ea)
