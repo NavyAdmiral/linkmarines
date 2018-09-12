@@ -48,3 +48,5 @@ Iota adapter for Chainlink that currently supports the following IOTA API querie
 > sendTrytes  
 ### [CryptoCompare External Adapter](https://github.com/OracleFinder/CryptoCompareExternalAdapter)
 Adapter to get data from CryptoCompare.com. Built to be deployed on GCP Cloud Functions or AWS Lambda.
+### [CoinMarketCap External Adapter](https://github.com/OracleFinder/CMCExternalAdapter)
+Adapter to get data from the CoinMarketCap.com API, both free and paid. Built to be instantly deployed on GCP Cloud Functions or AWS Lambda.
