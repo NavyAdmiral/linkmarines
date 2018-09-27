@@ -1,0 +1,24 @@
+---
+title: The Accord Duality
+subTitle: Connecting the dots has never been more of a blast.
+category: "speculation"
+cover: photo.jpg <!-- Don't touch this line -->
+---
+
+## What is the Accord Project?
+
+The [Accord Project](www.accordproject.org) is a project to develop an open source technology and standards for smart contracts. It is an initiative from [Clause](www.clause.io), a legal tech start-up pioneering data-driven contracts and ‘Software-as-a-Service’ product transitioning contracts from static documents into real-time, integrated, components of commercial systems. Their goal is to use distributed ledger technology combined with API data to drastically reduce the paperwork from legal documents, optimizing speed and saving cost at the same time. Until now, apart from some secure PDFs or digital signatures this wasn't possible because of security reasons. For more information about the origin and the goals of the Accord Project and Clause, check out this quite comprehensive [Forbes](https://www.forbes.com/sites/rogeraitken/2017/07/26/accord-projects-consortium-launching-first-legal-smart-contracts-with-hyperledger/#4ca845bf472c) article. You can also check out the github of [Accord](https://github.com/accordproject) and [Clause] for an idea what they're working on.
+
+## ChainLink announcement
+
+On July 28th of 2018, Accord posted [an update on medium](https://medium.com/@accordhq/smart-legal-contracts-and-oracles-36d4eb538a92) stating "that ChainLink, a leading provider of secure oracle services, will develop support for the Accord Project specification. For example, standardized Accord Project service-level-agreements for a ChainLink oracle could be enforced by a smart legal contract using performance data from the source ledger. It is intended that this is one of many such collaborations to improve the process of bringing real-world data into legal contracts."
+
+From [an interaction on twitter](https://twitter.com/danielselman/status/1024329812591222784) with the CTO of Clause we now that ChainLink is not yet used by the project, and it will not be an exclusive partnership. Instead,  [Accord Project says](https://medium.com/@accordhq/smart-legal-contracts-and-oracles-36d4eb538a92) that "It is intended that this is one of many such collaborations to improve the process of bringing real-world data into legal contracts."
+
+## Blockchain agnostic middleware
+
+The Accord Project has a collaboration with among others [IBM Blockchain](https://www.artificiallawyer.com/2018/06/28/ibm-joins-accord-project-smart-contract-consortium/), [R3](https://www.finextra.com/pressarticle/74241/accord-project-to-support-r3s-corda) and [Hyperledger](https://medium.com/@Clause/clause-launches-the-accord-project-with-hyperledger-and-the-iaccm-to-create-industry-first-tools-21f38f88d3bc).
+
+This highlights the power of ChainLink and its blockchain agnosticism. Enterprise blockchains will not be using monetized tokens or coins, yet they will be using ChainLink. This means the value of the ChainLink token will be inflated in a way no other coin or token can be, as it is as of yet the only token that is linked to these enterprise DLT solutions. ChainLink will not only be a bridge between blockchain and the outside world, it will also be a bridge between public and private blockchains, implying massive adoption. According to [Metcalfe's Law](https://en.wikipedia.org/wiki/Metcalfe%27s_law) value of a network is proportional to the square of the connected users, and not one network in the blockchain sphere will have more users than ChainLink.
+
+-------------------------------------
