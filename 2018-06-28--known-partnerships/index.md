@@ -32,7 +32,18 @@ Attempting to be an open-sourced, decentralised, and standardised PayPal. Plans 
 ChainLink is currently being investigated by Request network as a [potential solution](https://blog.request.network/request-network-project-update-december-22nd-2017-first-feedbacks-colossus-introducing-request-51fc3387a686) to allowing FIAT integration.
 
 > Oracle security is really important. At the moment ChainLink decentralized oracles seem like a good solution. We are in regular contact with them. - Request Network Team
-# Pontetial Partnerships
+
+## Accord Project
+The [Accord Project](www.accordproject.org) is a project to develop an open source technology and standards for smart contracts. It is an initiative from [Clause](www.clause.io). 
+
+On July 28th of 2018, Accord posted [an update on medium](https://medium.com/@accordhq/smart-legal-contracts-and-oracles-36d4eb538a92) stating "that ChainLink, a leading provider of secure oracle services, will develop support for the Accord Project specification. For example, standardized Accord Project service-level-agreements for a ChainLink oracle could be enforced by a smart legal contract using performance data from the source ledger. It is intended that this is one of many such collaborations to improve the process of bringing real-world data into legal contracts."
+
+From [an interaction on twitter](https://twitter.com/danielselman/status/1024329812591222784) with the CTO of Clause we now that ChainLink is not yet used by the project, and it will not be an exclusive partnership. Instead,  [Accord Project says](https://medium.com/@accordhq/smart-legal-contracts-and-oracles-36d4eb538a92) that "It is intended that this is one of many such collaborations to improve the process of bringing real-world data into legal contracts."
+
+More information can be found [here](/accord)
+
+
+# Potential Partnerships
 --------------------
 ## CHAINLINK + SWIFT
 ![Here](https://i.imgur.com/VTYgdzO.png)
@@ -55,7 +66,7 @@ All Microsoft speculations are already [covered here](https://chainlink.news/mic
 > 
 > 3 SGX and Enclaves
 > 
-> 4 Non-SmartContract Blockchain Platforms:
+> 4 Non-SmartContract Blockchain Platforms
 > 
 > 5 Cryptlet JSON Schema
 > 
