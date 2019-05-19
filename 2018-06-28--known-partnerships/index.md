@@ -32,7 +32,7 @@ Attempting to be an open-sourced, decentralised, and standardised PayPal. Plans 
 ChainLink is currently being investigated by Request network as a [potential solution](https://blog.request.network/request-network-project-update-december-22nd-2017-first-feedbacks-colossus-introducing-request-51fc3387a686) to allowing FIAT integration.
 
 > Oracle security is really important. At the moment ChainLink decentralized oracles seem like a good solution. We are in regular contact with them. - Request Network Team
-# Pontetial Partnerships
+# Potential Partnerships
 --------------------
 ## CHAINLINK + SWIFT
 ![Here](https://i.imgur.com/VTYgdzO.png)
